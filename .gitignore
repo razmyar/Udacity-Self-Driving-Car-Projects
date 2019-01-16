@@ -1,0 +1,11 @@
+**/data
+**/Dataset
+**/.ipynb_checkpoints
+**/*.h5
+**/models
+**/model
+*.swp
+**/*.p
+**/*.csv
+**/test_images
+**/test_videos
