@@ -18,22 +18,22 @@ When we drive, we use our eyes to decide where to go.  The lines on the road tha
 
 
 
-More info:  [Basic Lane Detection](./prj01 - Basic Lane Detection). 
+More info:  [Basic Lane Detection](https://github.com/razmyar/Udacity-Self-Driving-Car_Term-01/tree/master/prj01%20-%20Basic%20Lane%20Detection). 
 <br></br>
 
-## **Project 02 - Deep Learning Traffic Sign Classifier **
+## Project 02 - Deep Learning Traffic Sign Classifier
 <img src="./prj02 - Traffic Signs Classification/img/sign.jpeg" width="480" alt="Combined Image" />
 
 Traffic signs are an integral part of our transportation system. They provide critical information for drivers to promote their safety. Establishing a reliable traffic signs Classification mechanism is a significant step towards building semi-autonomous/autonomous vehicles.  In this project, ** Google's TensorFlow ** is used to implement a deep convolutional neural network to classify the [German Traffic Sign Dataset](http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset). 
 
-More info:  [Traffic Signs Recognition](./prj02 - Traffic Signs Classification). 
+More info:  [Traffic Signs Recognition](https://github.com/razmyar/Udacity-Self-Driving-Car_Term-01/tree/master/prj02%20-%20Traffic%20Signs%20Classification). 
 <br></br>
 ## **Project 03 - Behaviorial Cloning**
 <img src="prj03 - Behavioral Cloning/img/simulator.jpg" width="480" alt="Combined Image" />
 
 The object of this project is to apply deep learning techniques to teach a car to drive autonomously in a simulated driving application. **Keras** framework is used to implement a deep convolutional network.
 
-More info:  [ Self-Driving Car Simulation](./prj03 - BehavioralCloning). 
+More info:  [ Self-Driving Car Simulation](https://github.com/razmyar/Udacity-Self-Driving-Car_Term-01/tree/master/prj03%20-%20Behavioral%20Cloning). 
 <br></br>
 
 
@@ -42,7 +42,7 @@ More info:  [ Self-Driving Car Simulation](./prj03 - BehavioralCloning).
 
 In this project, computer vision techniques are used to augment video output with a detected road lane, road radius curvature and road centre offset.
 
-More info:  [ Advanced Lane Detection](./prj04 - Advance Lane Detection). 
+More info:  [ Advanced Lane Detection](https://github.com/razmyar/Udacity-Self-Driving-Car_Term-01/tree/master/prj04%20-%20Advance%20Lane%20Detection). 
 <br></br>
 
 ## **Project 05 - Vehicle Detection**
@@ -50,5 +50,5 @@ More info:  [ Advanced Lane Detection](./prj04 - Advance Lane Detection).
 
 This project represents a software pipeline to detect vehicles in a video.
 
-More info:  [ Advanced Lane Detection](./prj05 - Vehicle Detection). 
+More info:  [ Advanced Lane Detection](https://github.com/razmyar/Udacity-Self-Driving-Car_Term-01/tree/master/prj05%20-%20Vehicle%20Detection). 
 <br></br>
