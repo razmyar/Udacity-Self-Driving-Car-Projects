@@ -46,7 +46,6 @@ All the code for this project is contained in a [Jupyter notebook](./TrafficSign
 
 #### Model Parameters
 
-To train the model, I used the following parameters:
 
 * rate = 0.001
 * EPOCHS = 30
