@@ -4,7 +4,7 @@
 <img src="imgs/logo.jpg" width="480" alt="Combined Image" />
 
  
-<a href="https://youtu.be/VM2cVMHziPY" target="_blank">YouTube Demo Link</a>
+<a href="youtu.be/VM2cVMHziPY" target="_blank">YouTube Demo Link</a>
 
 
 Overview
