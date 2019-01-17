@@ -48,7 +48,7 @@ All the code for this project is contained in a [Jupyter notebook](./AdvanceLane
 ![alt text][image2]
 
 
-####Distortion-corrected samples
+#### Distortion-corrected samples
 
 
 
@@ -80,7 +80,6 @@ All the code for this project is contained in a [Jupyter notebook](./AdvanceLane
 ![alt text][image12]
 ![alt text][image13]
 
----
 
 
  [YouTube Demo Link](https://youtu.be/VM2cVMHziPY)
