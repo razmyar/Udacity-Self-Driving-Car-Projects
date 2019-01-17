@@ -6,7 +6,7 @@
 
 Overview
 ---
-Traffic signs are an integral part of our transportation system. They provide critical information for drivers to promote their safety. Establishing a reliable traffic signs Classification mechanism is a significant step towards building semi-autonomous/autonomous vehicles. In this project,** Google's TensorFlow ** is used to implement a deep convolutional neural network to classify the [German Traffic Sign Dataset](http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset). 
+Traffic signs are an integral part of our transportation system. They provide critical information for drivers to promote their safety. Establishing a reliable traffic signs Classification mechanism is a significant step towards building semi-autonomous/autonomous vehicles. In this project,**Google's TensorFlow**  is used to implement a deep convolutional neural network to classify the [German Traffic Sign Dataset](http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset). 
 
 All the code for this project is contained in a [Jupyter notebook](./TrafficSignClassifier.ipynb). 
 
@@ -15,15 +15,13 @@ All the code for this project is contained in a [Jupyter notebook](./TrafficSign
 
 
 
-* ##### Training size = <font color="red" >34799 </font>
-* ##### Test size =<font color="red" > 12630</font>
-* ##### Validation size =<font color="red" > 4410</font>
-* ##### Image data shape =<font color="red" > (32, 32)</font>
-* ##### Number of Unique classes =<font color="red" > 43</font>
+* Training size = <font color="red" >34799 </font>
+* Test size =<font color="red" > 12630</font>
+* Validation size =<font color="red" > 4410</font>
+* Image data shape =<font color="red" > (32, 32)</font>
+* Number of Unique classes =<font color="red" > 43</font>
 
-<br></br>
 
----
 ### Model Architecture
 
 
@@ -46,8 +44,6 @@ All the code for this project is contained in a [Jupyter notebook](./TrafficSign
 | Fully connected	3	| input: 16        							|43|
 
 
-<br></br>
----
 #### Model Parameters
 
 To train the model, I used the following parameters:
