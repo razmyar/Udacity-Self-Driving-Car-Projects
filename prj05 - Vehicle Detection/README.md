@@ -5,6 +5,7 @@
 
 
 <img src="imgs/pipelineFinal.png" width="480" alt="Combined Image" />
+
 [YouTube Demo Link](https://youtu.be/DwudAsXfoIM)
 
 Overview

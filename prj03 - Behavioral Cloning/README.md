@@ -5,6 +5,7 @@
 
 
 <img src="img/simulator.jpg" width="480" alt="Combined Image" />
+
 [YouTube Demo Link](https://www.youtube.com/watch?v=zcau9W1jO9g)
 
 Overview
