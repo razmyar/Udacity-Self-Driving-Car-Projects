@@ -3,7 +3,6 @@
 
 <img src="imgs/logo.jpg" width="480" alt="Combined Image" />
 
-
  [YouTube Demo Link](https://youtu.be/VM2cVMHziPY)
  
 
