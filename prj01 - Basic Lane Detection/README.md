@@ -12,5 +12,5 @@ In this project, **Python OpenCV** is used to identify lane lines on the road. T
 
 
 All the code for this project is contained in a [Jupyter notebook](./BasicLaneDetection.ipynb).   
-View HTML versions of the Jupyter notebook [here](./BasicLaneDetection.html). 
+
 
