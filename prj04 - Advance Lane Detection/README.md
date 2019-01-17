@@ -2,7 +2,9 @@
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 
 <img src="imgs/logo.jpg" width="480" alt="Combined Image" />
- [YouTube Demo Link](https://youtu.be/VM2cVMHziPY){:target="_blank"}
+
+ 
+<a href="https://youtu.be/VM2cVMHziPY" target="_blank">YouTube Demo Link</a>
 
 
 Overview
