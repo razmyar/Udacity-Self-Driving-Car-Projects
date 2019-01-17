@@ -4,7 +4,9 @@
 <img src="imgs/logo.jpg" width="480" alt="Combined Image" />
 
  
-<a href="youtu.be/VM2cVMHziPY" target="_blank">YouTube Demo Link</a>
+<a href="https://youtu.be/VM2cVMHziPY" target="_blank">YouTube Demo Link</a>
+
+[go](http://stackoverflow.com){:target="_blank" rel="noopener"}
 
 
 Overview
