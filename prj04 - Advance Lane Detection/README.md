@@ -13,13 +13,13 @@ Overview
 In this project, computer vision techniques are used to  augment video output with a detected road lane, road radius curvature and road centre offset. The implemented pipeline includes the following steps:
 
 **A.** Computing the camera calibration matrix and distortion coefficients from a set of chessboard images.  
-**B.** Applying a distortion correction to raw images.
-**C.** Using color transforms, and image processing techniques to create a thresholded binary image.
-**D.** Applying a perspective transform to rectify binary image ("birds-eye view").
-**E.** Detecting lane pixels and fit to find the lane boundary.
-**F.** Determining the curvature of the lane and vehicle position in respect to the center.
-**G.** Merging the detected lane boundaries into the original image.
-**H.** Producing a visual display of the lane boundaries and numerical estimation of lane curvature and vehicle position.
+**B.** Applying a distortion correction to raw images.  
+**C.** Using color transforms, and image processing techniques to create a thresholded binary image.  
+**D.** Applying a perspective transform to rectify binary image ("birds-eye view").  
+**E.** Detecting lane pixels and fit to find the lane boundary.  
+**F.** Determining the curvature of the lane and vehicle position in respect to the center.  
+**G.** Merging the detected lane boundaries into the original image.  
+**H.** Producing a visual display of the lane boundaries and numerical estimation of lane curvature and vehicle position.  
 
 [//]: # (Image References)
 
