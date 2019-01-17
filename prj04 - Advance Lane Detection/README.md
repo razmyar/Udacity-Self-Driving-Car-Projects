@@ -1,7 +1,7 @@
 ## Advanced Lane Detection
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 
-<img src="imgs/logo.jpg" width="480" alt="Combined Image" />
+<a href="(https://youtu.be/VM2cVMHziPY" target="_blank"><img src="imgs/logo.jpg" title="YouTube Demo" width="480"  /></a>
 
  [YouTube Demo Link](https://youtu.be/VM2cVMHziPY)
  
