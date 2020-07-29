@@ -1,8 +1,8 @@
-# **Udacity Self Driving Car Engineer - Term 01** 
+# **Udacity Self Driving Car Engineer Course Projects** 
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 
 ## Overview 
-This repository contains all the Udacity CarND Term 01 projects. These projects were completed between Sep - Dec 2017. Please note that this repo does NOT have all the required datasets to run the notebook projects. However, you should be able to find them on [Udacity GitHub](https://github.com/udacity).
+This repository contains all the Udacity CarND projects. Please note that the required datasets for running the notebook projects are not included in that this repo. However, you should be able to find them on [Udacity GitHub](https://github.com/udacity).
 
 #### Getting Started
 To setup, follow the instruction in [ CarND Term1 Starter Kit](https://github.com/udacity/CarND-Term1-Starter-Kit). Once completed, to start Jupyter in your browser, use terminal to navigate to the project directory and then run ``jupyter notebook  ``. 
@@ -13,7 +13,7 @@ To setup, follow the instruction in [ CarND Term1 Starter Kit](https://github.co
 
 
 
-When we drive, we use our eyes to decide where to go.  The lines on the road that show us where the lanes are act as our constant reference for where to steer the vehicle.  Naturally, one of the first things we would like to do in developing a self-driving car is to automatically detect lane lines using an algorithm.In this project, ** Python OpenCV **is used to identify lane lines on the road. 
+When we drive, we use our eyes to decide where to go.  The lines on the road that show us where the lanes are act as our constant reference for where to steer the vehicle.  Naturally, one of the first things we would like to do in developing a self-driving car is to automatically detect lane lines using an algorithm. In this project, **Python OpenCV** is used to identify lane lines on the road. 
 
 
 
@@ -75,6 +75,7 @@ More info:  [Unscented Kalman Filter](https://github.com/razmyar/Udacity-Self-Dr
 
 ## Project 08 - Kidnapped Vehicle
 <img src="./proj08 - Kidnapped Vehicle/images/img_prj07.png" width="480" alt="Combined Image" />
+
 This project represents an object-oriented implementation of a 2D (two-dimentional) particle filter using C++. Here, a particle filteris utilized  to estimation of a vehicle’s location and heading orientation. 
 
 More info:  [Kidnapped Vehicle](https://github.com/razmyar/Udacity-Self-Driving-Car-Projects/tree/master/proj08%20-%20Kidnapped%20Vehicle)
@@ -90,6 +91,7 @@ More info:  [PID Control](https://github.com/razmyar/Udacity-Self-Driving-Car-Pr
 
 ## Project 10 - MPC Controls
 <img src="./proj10-ModelPredictiveControl/images/img_prj10.png" width="480" alt="Combined Image" />
-This project represents an object-oriented implementation of c++ implementation of a Model Predictive Control (MPC) to control the steering angle and the throttle acceleration of a car driving around a simulated track.
+
+This project represents an object-oriented implementation of C++ implementation of a Model Predictive Control (MPC) to control the steering angle and the throttle acceleration of a car driving around a simulated track.
 
 More info:  [MPC Control](https://github.com/razmyar/Udacity-Self-Driving-Car-Projects/tree/master/proj10-ModelPredictiveControl)
